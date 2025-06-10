@@ -69,13 +69,12 @@ We welcome your involvement in making this app even better. Together, we can bui
 
 
 **Appointment Page:**
+![Screenshot 2025-06-10 205245](https://github.com/user-attachments/assets/f76fab27-e0a1-4742-b97a-a6cead2a42f3)
 
-
-**Login Page:**
-http://googleusercontent.com/image_collection/image_retrieval/13817321595716036168
 
 **About Us Page:**
-http://googleusercontent.com/image_collection/image_retrieval/9164736991513488091
+![Screenshot 2025-06-10 205257](https://github.com/user-attachments/assets/760accea-2a8c-45b5-bcda-dd70217916dc)
 
 **Sign In Page:**
-[Screenshot of Sign In Page](http://googleusercontent.com/image_collection/image_retrieval/2012770167918424042)
+![Screenshot 2025-06-10 205307](https://github.com/user-attachments/assets/0fd806db-c0d5-4225-bb4d-f30c4370325e)
+
