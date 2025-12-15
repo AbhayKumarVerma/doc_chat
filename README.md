@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">✨ Doctor Appointment Booking App — Appointments Made Easy ✨</h1>
+  <h1 align="center">✨ Doctor Appointment Booking App — Appointments Made Easy </h1>
   <p align="center">A simple and efficient platform to connect patients and doctors with seamless appointment scheduling and management.</p>
 </p>
 
@@ -95,8 +95,6 @@
 
 ---
 
-## ✨ License  
+## License
 
-🪪 **MIT License** © 2025 **DocAtHome Team**  
-
-<p align="center">✨ Built with care to make healthcare appointments simple and stress-free ✨</p>
+MIT © 2025 Abhay Kumar Verma
